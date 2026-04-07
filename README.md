@@ -1,15 +1,17 @@
 # 🎬 YouTube → Article & PDF Generator
 
-A Generative AI system that converts any YouTube video into a **professional Medium-style article** with a **downloadable PDF** and **full webpage** — in one click.
+A Generative AI that extracts insights from YouTube videos and transforms them into polished articles, PDFs, and web-ready content effortlessly.
 
 ---
-
 ## 🚀 Demo
 
-![App Screenshot](screenshot.png)
+<h3>App Screenshots</h3>
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<img width="300" alt="Screenshot 1" src="https://github.com/dee7pro/Youtube-summarizer-/blob/efba6f9f99f023fe20682df14c362babf31a4570/assets/img_1.png" />
+<img width="300" alt="Screenshot 2" src="https://github.com/dee7pro/Youtube-summarizer-/blob/efba6f9f99f023fe20682df14c362babf31a4570/assets/img_2.png" />
+<img width="300" alt="Code Screenshot" src="https://github.com/dee7pro/Youtube-summarizer-/blob/efba6f9f99f023fe20682df14c362babf31a4570/assets/youtube_sum_code.png" />
 
-
-
+</div>
 ---
 
 ## ✨ Features
@@ -108,4 +110,7 @@ PDF + ZIP Download
 ## 👨‍💻 Author
 
 **Deepika A ** — Gen AI Engineer  
+
+## License
+MIT License © 2026 dee7pro
 
