@@ -108,7 +108,7 @@ PDF + ZIP Download
 
 ## 👨‍💻 Author
 
-**Deepika A ** — Gen AI Engineer  
+**Deepika A** — Gen AI Engineer  
 
 ## License
 MIT License © 2026 dee7pro
