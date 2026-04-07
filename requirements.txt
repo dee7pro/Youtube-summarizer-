@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_google_genai
+langchain-community
+youtube-transcript-api
+python-dotenv
+pytube
+fpdf2
