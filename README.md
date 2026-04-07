@@ -1,7 +1,5 @@
 # 🎬 YouTube → Article & PDF Generator
-
 A Generative AI that extracts insights from YouTube videos and transforms them into polished articles, PDFs, and web-ready content effortlessly.
-
 ### Streamlit : https://youtubesummariser1.streamlit.app/
 ---
 ## 🚀 Demo
@@ -13,8 +11,8 @@ A Generative AI that extracts insights from YouTube videos and transforms them i
 <img width="300" alt="Code Screenshot" src="https://github.com/dee7pro/Youtube-summarizer-/blob/efba6f9f99f023fe20682df14c362babf31a4570/assets/youtube_sum_code.png" />
 
 </div>
----
 
+---
 ## ✨ Features
 
 - 📝 Extracts YouTube transcript automatically
